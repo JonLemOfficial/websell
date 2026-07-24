@@ -14,6 +14,7 @@ En este documento se explican los procesos formales, actividades, aptitudes y ru
 1. Operaciones y Marketing Websell (<info@thewebsell.com>).
 2. Desarrollo y SEO WebSell (<seo@thewebsell.com>).
 3. Soporte, Mantenimiento y Auditorias websell (<support@thewebsell.com>).
+4. Call Center (<call@thewebsell.com>)
 
 ### Como funciona el departamento de Operaciones y Marketing
 
