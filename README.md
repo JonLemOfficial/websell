@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/img/vector/websell-logo-linear.svg" alt="WebSell icon" width="500" height="180"/>
+  <img src="./assets/img/vectors/websell-logo-linear.svg" alt="WebSell icon" width="500" height="180"/>
   <h1 align="center">Documentación de modalidades, cultura de trabajo y procesos internos de WebSell Corporation</h1>
 </div>
 
