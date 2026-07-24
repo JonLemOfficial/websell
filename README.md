@@ -17,9 +17,9 @@ En este documento se explican los procesos formales, actividades, aptitudes y ru
 
 ### Como funciona el departamento de Operaciones y Marketing
 
-1. Modalidad de trabajo: Presencial
-2. Lider del equipo: Ehulymar Santana
-3. Horario de jornada: (08:00 - 16:00) - Lunes a Viernes.
+1. **Modalidad de trabajo**: Presencial
+2. **Lider del equipo**: Ehulymar Santana
+3. **Horario de jornada**: (08:00 - 16:00) - Lunes a Viernes.
 
 #### Integrantes
 
@@ -42,9 +42,9 @@ En este documento se explican los procesos formales, actividades, aptitudes y ru
 
 ### Como funciona el departamento de Desarrollo y SEO
 
-1. Modalidad de trabajo: Presencial.
-2. Lider del equipo: Jesus Vazquez
-3. Horario de jornada: (08:00 - 16:00) - Lunes a Viernes
+1. **Modalidad de trabajo**: Presencial.
+2. **Lider del equipo**: Jesus Vazquez
+3. **Horario de jornada**: (08:00 - 16:00) - Lunes a Viernes
 
 El equipo de desarrollo se encarga de llevar a cabo los desarrollos, peticiones y solicitudes que la empresa negocie con los clientes.
 
@@ -71,9 +71,9 @@ El equipo de desarrollo se encarga de llevar a cabo los desarrollos, peticiones 
 
 ### Como funciona el departamento de Soporte y Mantenimiento
 
-1. Modalidad de trabajo: Semi-Presencial.
-2. Lider del equipo: Jonathan Lemos
-3. Horario de jornada: (08:00 - 16:00) - Lunes a Viernes
+1. **Modalidad de trabajo**: Semi-Presencial.
+2. **Lider del equipo**: Jonathan Lemos
+3. **Horario de jornada**: (08:00 - 16:00) - Lunes a Viernes
 
 El equipo de soporte y mantenimiento se encarga de revisar, monitorear, y levantar reportes o avisos diariamente del estado actual de cada cliente, dentro del grupo oficial de soporte de Websell en Telegram (`WebSell Soporte Interno`).
 
