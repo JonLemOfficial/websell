@@ -5,6 +5,8 @@
 
 En este documento se explican los procesos formales, actividades, aptitudes y rutinas diarias, semanales y/o mensuales a realizar en cada uno de los departamentos de WebSell.
 
+---
+
 ## Tabla de contenidos
 
 - [Departamentos](#Departamentos)
