@@ -13,8 +13,9 @@ En este documento se explican los procesos formales, actividades, aptitudes y ru
 
 1. Operaciones y Marketing Websell (<info@thewebsell.com>).
 2. Desarrollo y SEO WebSell (<seo@thewebsell.com>).
-3. Soporte, Mantenimiento y Auditorias websell (<support@thewebsell.com>).
+3. **NUEVO**: Soporte, Mantenimiento y Auditorias websell (<support@thewebsell.com>).
 4. Call Center (<call@thewebsell.com>)
+5. Diseño y creativos (<design@thewebsell.com>)
 
 ### Como funciona el departamento de Operaciones y Marketing
 
@@ -99,3 +100,33 @@ El equipo de soporte y mantenimiento se encarga de revisar, monitorear, y levant
 11. Linux
 12. Bash/SSH
 13. AWS
+
+### Como funciona el departamento de Call center
+
+Explicar como funciona call center...
+
+### Como funciona el departamento de Diseño y Creativos
+
+1. **Modalidad de trabajo**: Presencial.
+2. **Lider del equipo**: Finhary Reveron
+3. **Horario de jornada**: (08:00 - 16:00) - Lunes a Viernes
+
+El equipo de soporte y mantenimiento se encarga de revisar, monitorear, y levantar reportes o avisos diariamente del estado actual de cada cliente, dentro del grupo oficial de soporte de Websell en Telegram (`WebSell Soporte Interno`).
+
+#### Integrantes
+
+| Nombre y Apellido | Rol |
+| ----------------- | --- |
+| Finhary | Lider (Encargado) |
+| Carlos Sanchez | Diseñador/Creativo |
+| Steven Serrano | Diseñador/Creativo |
+| ... | ... |
+
+#### Herramientas que usa el departamento
+
+1. Abode Photoshop
+2. Adobe Illustrator
+3. Adobe Premiere Pro
+4. Capcut
+5. Figma
+6. Canva
