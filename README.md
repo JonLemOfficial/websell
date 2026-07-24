@@ -1,4 +1,7 @@
-# Documentación de modalidades, cultura de trabajo y procesos internos de WebSell Corporation
+<div align="center">
+  <img src="./assets/img/vectors/websell-logo-linear" alt="WebSell icon" width="500" height="180"/>
+  <h1 align="center">Documentación de modalidades, cultura de trabajo y procesos internos de WebSell Corporation</h1>
+</div>
 
 En este documento se explican los procesos formales, actividades, aptitudes y rutinas diarias, semanales y/o mensuales a realizar en cada uno de los departamentos de WebSell.
 
